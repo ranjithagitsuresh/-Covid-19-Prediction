@@ -1,2 +1,3 @@
 # -Covid-19-Prediction
 our project focuses on developing a machine learning model  to classify the X-rays of Corona Affected vs Unaffected. We will be using CNN method in our project for image processing, segmentation and  classification.ected  patients using Python’s Machine Learning and Deep  Learning libraries.
+Our Image Classification Model is trained and evaluated based on Convolutional Neural Network type with a reasonably high accuracy. For this implementation, Python Programming language is used with Tensorflow, Keras, OpenCV modules and other Deep Learning libraries.The trained CNN Model is deployed in a web application using Python backend with a Flask web development framework.
